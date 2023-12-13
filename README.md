@@ -46,9 +46,11 @@ First is the counter will transmit all the signals through AND gate and will hav
 
 By using that will have results as we can see above a,b,c,d,e,f,g are OR gates, these signals will move into 7 segments come out the results.
 
-Please import it to this website https://www.falstad.com/circuit/
-
  ![image](https://github.com/caoxuannghiem/Digital_Stopwatch_Logic/assets/144471135/4ddd8d7d-84a3-467a-bc1b-b4d5b28711e1)
 
 
 we connect all of it into this 7 segments. Results we can see image above. 
+
+
+Please import it to this website https://www.falstad.com/circuit/
+
