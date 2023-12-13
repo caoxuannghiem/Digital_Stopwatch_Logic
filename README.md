@@ -1,6 +1,9 @@
 INTRODUCTION
+
 A Digital clock is a type of clock that displays the time digitally, as opposed to an analog clock, where the time is indicated by the positions of rotating hands. The times derived by analog clocks come from either a pendulum or a spring. Pendulums are unusable on moving platforms, such as ship, and springs unwind more and more slowly as they released stored up tension. The use of sweep hands allowed these mechanical time bases to be presented in a mechanically driven display. With the perfecting of multivibrator chips, electrical circuits could be build that could accurately keep time under a wide range of conditions. As the time base had switched from mechanical to electrical, the time display had to follow suit. Display devices called 7 segment display were designed to allow the time to be shown numerically.
+
 BLOCK DIAGRAM 
+
 This is a simple Block Diagram of the Stopwatch  
 
 LOGIC CIRCUIT
